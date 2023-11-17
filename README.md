@@ -1,5 +1,5 @@
 # Tang - Frontend for Go Assistant
-![tang logo](,/tang.png)
+![tang logo](./tang.png)
 
 ## Introduction
 Welcome to _Tang_, a frontend project inspired by the cultural and artistic flourishing of the Tang Dynasty. Developed with Vue.js, this project provides a unique user experience for interacting with the game of Go. Integrated into Docker containers, _Tang_ combines the flexibility of modern technology with the elegance of a golden era.
